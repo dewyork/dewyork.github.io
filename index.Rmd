@@ -1,17 +1,11 @@
 ---
 ---
 
-<img src="images/shibainu.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/Dew_index.jpg" style="width:50%; border:15px solid; margin-right: 20px" align="left">
 
-Originally trained as a pharmacist, I stepped into the world of data with focus ranging from biostatistical methods to more applied fields in health economics and outcomes research. Currently, I work as a data analyst at [the Center for Behavioral Cardiovascular Health (CBCH)](https://www.columbiacardiology.org/research/research-centers-and-programs/center-behavioral-cardiovascular-health) conducting analyses on the relationship between behavioral factors and cardiovascular outcomes, and also
-My primary statistical and programming tools are R and SAS.  
+Originally trained as a pharmacist, I stepped into the world of data with focus ranging from biostatistical methods to more applied fields in health economics and outcomes research. Currently, I work as a data analyst at [the Center for Behavioral Cardiovascular Health (CBCH)](https://www.columbiacardiology.org/research/research-centers-and-programs/center-behavioral-cardiovascular-health) conducting analyses on the relationship between behavioral factors and cardiovascular outcomes, and also lead one of the studies in the [CORDA program](https://www.genmed.columbia.edu/research/research-centers-and-programs/columbia-program-decision-analysis-chronic-disease-prevention) which look at the cost-effectiveness of adopting the [new ACC/AHA High Blood Pressure Guidelines](https://www.acc.org/latest-in-cardiology/articles/2017/11/08/11/47/mon-5pm-bp-guideline-aha-2017) in the US. My primary statistical and programming tools include R, TreeAge and SAS.  
 
-Talk a little bit about my thesis
-
+I received MPH degree in Health Policy & Management from [Columbia University](https://www.mailman.columbia.edu/become-student/departments/health-policy-and-management) in 2011 and went back for my DrPH in [Biostatistics](https://www.mailman.columbia.edu/become-student/departments/biostatistics) in 2013. For my dissertation, I am working on developing the new model-based clustering algorithms for zero-inflated data with the supervision of [Dr.Bin cheng](https://www.mailman.columbia.edu/people/our-faculty/bc2159) and [Dr.Ken Cheung](https://www.mailman.columbia.edu/people/our-faculty/yc632). My expected graduation date is December 2019.
 
 
-I graduated from the [University of Minnesota](http://www.sph.umn.edu/academics/divisions/biostatistics/) with a MS in biostatistics in 2010. In 2012 I began working toward my DrPH in biostatistics as a part-time student at [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics), where I am investigating statistical methods for the study of etiologic heterogeneity in epidemiologic studies under the advisement of [Dr. Shuang Wang](https://www.mailman.columbia.edu/people/our-faculty/sw2206) at Columbia University and [Dr. Colin Begg](https://www.mskcc.org/profile/colin-begg) at Memorial Sloan Kettering Cancer Center. I expect to graduate by the end of 2018.
-
-I am a well-known R enthusiast, including serving on the board and being an active member of [R Ladies NYC](http://www.rladiesnyc.org/). 
-
-My full CV is available [here](files/Zabor_CV_2017_Q4.pdf).
+My resume is available [here](resume.html).

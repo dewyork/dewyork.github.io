@@ -6,8 +6,8 @@ navbar:
     - text: "Resume"
       href: resume.html
   right:
-    - text: "About"
-      href: about.html
+  #  - text: "About"
+  #    href: about.html
     - icon: fa-envelope fa-lg
       href: mailto:<at2710@cumc.columbia.com>
     - icon: fa-github fa-lg
@@ -16,5 +16,5 @@ navbar:
       href: https://www.linkedin.com/in/anusorn-thanataveerat-mph-75a98948/
 output:
   html_document:
-    #theme: paper
-    #css: 'styles.css'
+  #  theme: paper
+  #  css: 'styles.css'
