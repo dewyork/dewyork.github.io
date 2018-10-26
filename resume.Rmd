@@ -5,27 +5,28 @@ Education
 ---------
 
 2013-2019 (expected)
-:   **DrPH, Biostatistics**; Columbia University (MyTown)
+:   **DrPH, Biostatistics**; Columbia University (New York)
 
-    <!-- *Thesis title: Deep Learning Approaches to the Self-Awesomeness -->
-    <!--  Estimation Problem* -->
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2010-2011
+:   **MPH, Health Policy and Management**;  Columbia University (New York)
 
-    *Minor: Awesomeology*
+    *Concentration: Effectiveness & Outcomes Research*
+    
+    
+2003-2008
+:   **BSPharm, Pharmacy**;  Chulalongkorn University (Bangkok)
+
+    *First Class Honors*    
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Data analyst**; Center for Bahavioral Cardiovascular Health, Columbia University Medical Center (New York)
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Work extensively with large datasets with sample sizes over 30,000 and with over 100 attributes.
+* Create datasets and perform statistical analyses including linear, logistic regression and longitudinal analyses
 
-* First item
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
