@@ -1,7 +1,7 @@
 ---
 ---
 
-<img src="images/Dew_index.jpg" style="width:50%; border:15px solid; margin-right: 20px" align="left">
+<img src="images/Dew_index.JPG" style="width:50%; border:15px solid; margin-right: 20px" align="left">
 
 Originally trained as a pharmacist, I stepped into the world of data with focus ranging from biostatistical methods to more applied fields in health economics and outcomes research. Currently, I work as a data analyst at [the Center for Behavioral Cardiovascular Health (CBCH)](https://www.columbiacardiology.org/research/research-centers-and-programs/center-behavioral-cardiovascular-health) conducting analyses on the relationship between behavioral factors and cardiovascular outcomes, and also lead one of the studies in the [CORDA program](https://www.genmed.columbia.edu/research/research-centers-and-programs/columbia-program-decision-analysis-chronic-disease-prevention) which look at the cost-effectiveness of adopting the [new ACC/AHA High Blood Pressure Guidelines](https://www.acc.org/latest-in-cardiology/articles/2017/11/08/11/47/mon-5pm-bp-guideline-aha-2017) in the US. My primary statistical and programming tools include R, TreeAge and SAS.  
 
