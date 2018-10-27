@@ -1,88 +1,104 @@
 Anusorn Dew Thanataveerat
 ============
+622 West 168th street 9th floor, New York, NY 10032 at2710@cumc.columbia.edu
 
 Education
 ---------
 
-2013-2019 (expected)
-:   **DrPH, Biostatistics**; Columbia University (New York)
+**Columbia University (New York)**
+
+Sep-2013 - Dec-2019 (expected)
+:   *DrPH, Biostatistics*
 
 
-2010-2011
-:   **MPH, Health Policy and Management**;  Columbia University (New York)
+
+Sep-2010 - Dec-2011
+:   *MPH, Health Policy and Management*
 
     *Concentration: Effectiveness & Outcomes Research*
     
-    
-2003-2008
-:   **BSPharm, Pharmacy**;  Chulalongkorn University (Bangkok)
+**Chulalongkorn University (Bangkok)**
 
-    *First Class Honors*    
+May-2003 - Feb-2008
+:   *BSPharm, Pharmacy*
+
+    *First Class Honors Received*    
 
 Experience
 ----------
 
-**Data analyst**; Center for Bahavioral Cardiovascular Health, Columbia University Medical Center (New York)
+*Center for Bahavioral Cardiovascular Health, Columbia University Medical Center (New York)*
+
+Apr-2016 – Present
+
+**Data analyst**: 
 
 * Work extensively with large datasets with sample sizes over 30,000 and with over 100 attributes.
-* Create datasets and perform statistical analyses including linear, logistic regression and longitudinal analyses
+*	Create datasets and perform the statistical analyses including linear regression analysis, longitudinal analysis and logistic regression analysis, and statistical modeling (GLM, Logistic model, GEE and Mixed Model) of clinical trials and observational studies using SAS and R.
+*	Generate tables and figures for analysis results, and communicate statistical results of the research datasets to investigators and data team member
+*	Write method and result sections for publications and respond to the reviewers' comments for statistics session
+
+*Division of General Medicine, Columbia University Medical Center (New York)*
+
+Feb-2012 – Sep-2013
+
+**Data analyst**
+
+Jun-2011 – Jan-2012
+
+**Intern** 
+
+* Constructed computer simulation model to evaluate the cost-effectiveness of primary cardiovascular disease prevention using TreeAge
+*	Optimized the Microsimulation model by introducing new approaches which increase the model’s tractability and using cross-platform communication 
+*	Ran simulations with the Coronary Heart Disease (CHD) Policy Model software in Fortran
+*	Investigated and analyzed U.S. national data ( NHANES, NHDS, WONDER, BFRSS)
+*	Conducted research, including literature reviews, to support assumptions for health economic models
 
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+*Johnson & Johnson (Bangkok)*
 
-**That Other Job You Had**
+Feb-2008 – Sep-2009
 
-Also with a short description.
+**Clinical Research Associate**
 
-Technical Experience
+*	Conducted studies in the fields of Hematology and Infectious Disease 
+*	Supported marketing and sales team to achieve their targets
+*	Supervised data management team on the investigator-initiated study which collected data on prevalence, risk factors and severity of multiple myeloma
+*	Collaborated with regulatory affairs unit in order to import unlicensed medicine for pediatric patients
+*	Initiated the tax-exemption process for oncology products  
+*	Maintained quality standards and timelines to meet business needs and contributed to the development and improvement of departmental procedures and processes
+*	Trained summer interns on clinical trial management topics 
+
+
+Publications
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+1.	Zhu, D. R., Julian, J., Lee, S. J., **Thanataveerat, A.**, & Sumner, J. A. (2018). Patterns of peritraumatic threat perceptions in patients evaluated for suspected acute coronary syndrome according to prior and current posttraumatic stress symptoms. General hospital psychiatry.
+2.	Diaz, K. M., **Thanataveerat, A.**, Parsons, F. E., Yoon, S., Cheung, Y. K., Alcantara, C., ... & Burg, M. M. (2018). The Influence of Daily Stress on Sedentary Behavior: Group and Person (N of 1) Level Results of a 1-Year Observational Study. Psychosomatic medicine.
+3.	**Thanataveerat, A.**, Kohli-Lynch, C., Pletcher, M. J., Vittinghoff, E., Moran, A. E. (2018, March). Potential Value of Long-term Intensive BP Treatment in 40-year Patients: A Computer Simulation Study. Poster session presented at EPI/Lifestyle 2018 Scientific Sessions, New Orleans, LA.
+4.	Axelrad, J. E., Pinsino, A., Trinh, P. N., **Thanataveerat, A.**, Brooks, C., Demmer, R. T., ... & Garan, A. R. (2017). Limited usefulness of endoscopic evaluation in patients with continuous flow left ventricular assist devices and gastrointestinal bleeding. The Journal of Heart and Lung Transplantation.
+5.	Moise, N., **Thanataveerat, A.**, Alcantara, C., Ye, S., Davidson, K., Qian, M., ... & Kronish, I. (2017). Willingness for Depression Treatment Following Myocardial Infarction. Circulation. 2017;136:A15009.
+6.	Sumner, J., Zhu, D., Lee, S., **Thanataveerat, A.** (2017, April). Patterns of Peritraumatic Threat Perceptions in Patients Evaluated for Suspected Acute Coronary Syndrome According to Prior and Current Posttraumatic Stress Symptoms. Poster session presented at Anxiety and Depression Conference 2017, San Francisco, CA. 
+7.	Obi, M., Moise, N., Alcantara, C., **Thanataveerat, A.**, Kronish, I. (2017, April). Health priorities following myocardial infarction: Results from a national survey. Poster session presented at Society of General Internal Medicine Annual Meeting, Washington, DC. 
+8.	**Thanataveerat, A.**, Kohli-Lynch, C., Pletcher, M. J., Vittinghoff, E., Moran, A. E. (2017, March). Potential Value of Long-term Intensive BP Treatment in 40-year Patients: A Computer Simulation Study. Poster session presented at EPI/Lifestyle 2017 Scientific Sessions, Portland, OR.
+9.	Kohli-Lynch, C., **Thanataveerat, A.**, Pletcher, M. J., Vittinghoff, E., Moran, A. E. (2017, March). Long-Term Benefits of Blood Pressure Lowering in Young Adulthood: A Computer Simulation Study. Poster session presented at EPI/Lifestyle 2017 Scientific Sessions, Portland, OR.
+10.	**Thanataveerat, A.**, Chang B. P., Parsons F., Sundquist K., Suh E., Sumner J. A. (2017, March). Greater Emergency Department Crowding is Associated with Elevated Posttraumatic Stress Symptoms in the Acute Aftermath of Evaluation for Suspected Acute Coronary Syndrome. Poster session presented at The Annual Meeting of the American Psychosomatic Society, Seville, Spain.
+11.	Pletcher, M. J., Vittinghoff, E., **Thanataveerat, A.**, Bibbins-Domingo, K., & Moran, A. E. (2016). Young Adult Exposure to Cardiovascular Risk Factors and Risk of Events Later in Life: The Framingham Offspring Study. PloS one, 11(5), e0154288.
+12.	Gu, D., He, J., Coxson, P. G., Rasmussen, P. W., Huang, C., **Thanataveerat, A.**, . . . Zhao, D. (2015). The Cost-Effectiveness of Low-Cost Essential Antihypertensive Medicines for Hypertension Control in China: A Modelling Study. PLoS medicine, 12(8).
+13.	Yang, J. J., **Thanataveerat, A.**, Green, P. H., & Lebwohl, B. (2015). Cost Effectiveness of Routine Duodenal Biopsy Analysis for Celiac Disease During Endoscopy for Gastroesophageal Reflux. Clinical Gastroenterology and Hepatology.
+14.	Moran AE, Odden MC, **Thanataveerat, A**, et al. Cost-Effectiveness of Hypertension Therapy According to 2014 Guidelines. New England Journal of Medicine 2015; 372:447-55. 
+15.	**Thanataveerat, A.** (2013, October). Calibration of a Markov Cardiovascular Disease Microsimulation Model Using an Established Cell-Based Simulation Model. Paper presented at The 35th Annual Meeting of the Society for Medical Decision Making, Baltimore, MD.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Skills
+--------------------
+*Computer*:TreeAge, FileMaker, SAS, STATA, SPSS, R, Latex, GitHub, Microsoft Office
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+*Languages*: Thai (native), English (fluent) 
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Professional Association
 ----------------------------------------
 
-* Human Languages:
+May-2008 – Present
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+The Pharmacy Council, Thailand
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
