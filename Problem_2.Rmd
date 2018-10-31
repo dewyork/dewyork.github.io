@@ -81,7 +81,8 @@ inner_join(instacart_subset, top10_product) %>%
    add_trace(x = ~Saturday, y = ~product_name, name = 'Saturday', type = 'scatter',
            mode = 'markers', marker = list(color = 'violet')) %>% 
    layout(title = 'Tope 10 best-selling prodcut',
-          xaxis = list(title = ''))
+          xaxis = list(title = '')) %>% 
+  layout(autosize = F, width = 800, height = 500)
 ```
 
 
