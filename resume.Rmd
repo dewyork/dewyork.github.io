@@ -29,7 +29,11 @@ Experience
 
 *Center for Bahavioral Cardiovascular Health, Columbia University Medical Center (New York)*
 
-Apr-2016 – Present
+Apr-2019 – Present
+
+**Senior data analyst**: 
+
+Apr-2016 – Mar-2019
 
 **Data analyst**: 
 
@@ -73,21 +77,23 @@ Feb-2008 – Sep-2009
 Publications
 --------------------
 
-1.	Zhu, D. R., Julian, J., Lee, S. J., **Thanataveerat, A.**, & Sumner, J. A. (2018). Patterns of peritraumatic threat perceptions in patients evaluated for suspected acute coronary syndrome according to prior and current posttraumatic stress symptoms. General hospital psychiatry.
-2.	Diaz, K. M., **Thanataveerat, A.**, Parsons, F. E., Yoon, S., Cheung, Y. K., Alcantara, C., ... & Burg, M. M. (2018). The Influence of Daily Stress on Sedentary Behavior: Group and Person (N of 1) Level Results of a 1-Year Observational Study. Psychosomatic medicine.
-3.	**Thanataveerat, A.**, Kohli-Lynch, C., Pletcher, M. J., Vittinghoff, E., Moran, A. E. (2018, March). Potential Value of Long-term Intensive BP Treatment in 40-year Patients: A Computer Simulation Study. Poster session presented at EPI/Lifestyle 2018 Scientific Sessions, New Orleans, LA.
-4.	Axelrad, J. E., Pinsino, A., Trinh, P. N., **Thanataveerat, A.**, Brooks, C., Demmer, R. T., ... & Garan, A. R. (2017). Limited usefulness of endoscopic evaluation in patients with continuous flow left ventricular assist devices and gastrointestinal bleeding. The Journal of Heart and Lung Transplantation.
-5.	Moise, N., **Thanataveerat, A.**, Alcantara, C., Ye, S., Davidson, K., Qian, M., ... & Kronish, I. (2017). Willingness for Depression Treatment Following Myocardial Infarction. Circulation. 2017;136:A15009.
-6.	Sumner, J., Zhu, D., Lee, S., **Thanataveerat, A.** (2017, April). Patterns of Peritraumatic Threat Perceptions in Patients Evaluated for Suspected Acute Coronary Syndrome According to Prior and Current Posttraumatic Stress Symptoms. Poster session presented at Anxiety and Depression Conference 2017, San Francisco, CA. 
-7.	Obi, M., Moise, N., Alcantara, C., **Thanataveerat, A.**, Kronish, I. (2017, April). Health priorities following myocardial infarction: Results from a national survey. Poster session presented at Society of General Internal Medicine Annual Meeting, Washington, DC. 
-8.	**Thanataveerat, A.**, Kohli-Lynch, C., Pletcher, M. J., Vittinghoff, E., Moran, A. E. (2017, March). Potential Value of Long-term Intensive BP Treatment in 40-year Patients: A Computer Simulation Study. Poster session presented at EPI/Lifestyle 2017 Scientific Sessions, Portland, OR.
-9.	Kohli-Lynch, C., **Thanataveerat, A.**, Pletcher, M. J., Vittinghoff, E., Moran, A. E. (2017, March). Long-Term Benefits of Blood Pressure Lowering in Young Adulthood: A Computer Simulation Study. Poster session presented at EPI/Lifestyle 2017 Scientific Sessions, Portland, OR.
-10.	**Thanataveerat, A.**, Chang B. P., Parsons F., Sundquist K., Suh E., Sumner J. A. (2017, March). Greater Emergency Department Crowding is Associated with Elevated Posttraumatic Stress Symptoms in the Acute Aftermath of Evaluation for Suspected Acute Coronary Syndrome. Poster session presented at The Annual Meeting of the American Psychosomatic Society, Seville, Spain.
-11.	Pletcher, M. J., Vittinghoff, E., **Thanataveerat, A.**, Bibbins-Domingo, K., & Moran, A. E. (2016). Young Adult Exposure to Cardiovascular Risk Factors and Risk of Events Later in Life: The Framingham Offspring Study. PloS one, 11(5), e0154288.
-12.	Gu, D., He, J., Coxson, P. G., Rasmussen, P. W., Huang, C., **Thanataveerat, A.**, . . . Zhao, D. (2015). The Cost-Effectiveness of Low-Cost Essential Antihypertensive Medicines for Hypertension Control in China: A Modelling Study. PLoS medicine, 12(8).
-13.	Yang, J. J., **Thanataveerat, A.**, Green, P. H., & Lebwohl, B. (2015). Cost Effectiveness of Routine Duodenal Biopsy Analysis for Celiac Disease During Endoscopy for Gastroesophageal Reflux. Clinical Gastroenterology and Hepatology.
-14.	Moran AE, Odden MC, **Thanataveerat, A**, et al. Cost-Effectiveness of Hypertension Therapy According to 2014 Guidelines. New England Journal of Medicine 2015; 372:447-55. 
-15.	**Thanataveerat, A.** (2013, October). Calibration of a Markov Cardiovascular Disease Microsimulation Model Using an Established Cell-Based Simulation Model. Paper presented at The 35th Annual Meeting of the Society for Medical Decision Making, Baltimore, MD.
+1.	Moise, N., Davidson, K. W., Cheung, K., Clarke, G. N., Dolor, R. J., Duer-Hefele, J., **Thanataveerat, A.**, ... & Retuerto, J. (2019). Rationale, design, and baseline data for a multicenter randomized clinical trial comparing depression screening strategies after acute coronary syndrome: The comparison of depression identification after acute Coronary Syndromes-Quality of Life and Cost Outcomes (CODIACS-QOL) trial. Contemporary clinical trials, 105826.
+2.	Axelrad, J. E., Faye, A. S., Pinsino, A., **Thanataveerat, A.**, Colombo, P., Yuzefpolskaya, M., & Gonda, T. A. (2019). 51 PROSPECTIVE EVALUATION OF AN ENDOSCOPIC MANAGEMENT ALGORITHM FOR GASTROINTESTINAL BLEEDING IN PATIENTS WITH LEFT VENTRICULAR ASSIST DEVICES. Gastrointestinal Endoscopy, 89(6), AB49.
+3.	Zhu, D. R., Julian, J., Lee, S. J., **Thanataveerat, A.**, & Sumner, J. A. (2018). Patterns of peritraumatic threat perceptions in patients evaluated for suspected acute coronary syndrome according to prior and current posttraumatic stress symptoms. General hospital psychiatry.
+4.	Diaz, K. M., **Thanataveerat, A.**, Parsons, F. E., Yoon, S., Cheung, Y. K., Alcantara, C., ... & Burg, M. M. (2018). The Influence of Daily Stress on Sedentary Behavior: Group and Person (N of 1) Level Results of a 1-Year Observational Study. Psychosomatic medicine.
+5.	**Thanataveerat, A.**, Kohli-Lynch, C., Pletcher, M. J., Vittinghoff, E., Moran, A. E. (2018, March). Potential Value of Long-term Intensive BP Treatment in 40-year Patients: A Computer Simulation Study. Poster session presented at EPI/Lifestyle 2018 Scientific Sessions, New Orleans, LA.
+6.	Axelrad, J. E., Pinsino, A., Trinh, P. N., **Thanataveerat, A.**, Brooks, C., Demmer, R. T., ... & Garan, A. R. (2017). Limited usefulness of endoscopic evaluation in patients with continuous flow left ventricular assist devices and gastrointestinal bleeding. The Journal of Heart and Lung Transplantation.
+7.	Moise, N., **Thanataveerat, A.**, Alcantara, C., Ye, S., Davidson, K., Qian, M., ... & Kronish, I. (2017). Willingness for Depression Treatment Following Myocardial Infarction. Circulation. 2017;136:A15009.
+8.	Sumner, J., Zhu, D., Lee, S., **Thanataveerat, A.** (2017, April). Patterns of Peritraumatic Threat Perceptions in Patients Evaluated for Suspected Acute Coronary Syndrome According to Prior and Current Posttraumatic Stress Symptoms. Poster session presented at Anxiety and Depression Conference 2017, San Francisco, CA. 
+9.	Obi, M., Moise, N., Alcantara, C., **Thanataveerat, A.**, Kronish, I. (2017, April). Health priorities following myocardial infarction: Results from a national survey. Poster session presented at Society of General Internal Medicine Annual Meeting, Washington, DC. 
+10.	**Thanataveerat, A.**, Kohli-Lynch, C., Pletcher, M. J., Vittinghoff, E., Moran, A. E. (2017, March). Potential Value of Long-term Intensive BP Treatment in 40-year Patients: A Computer Simulation Study. Poster session presented at EPI/Lifestyle 2017 Scientific Sessions, Portland, OR.
+11.	Kohli-Lynch, C., **Thanataveerat, A.**, Pletcher, M. J., Vittinghoff, E., Moran, A. E. (2017, March). Long-Term Benefits of Blood Pressure Lowering in Young Adulthood: A Computer Simulation Study. Poster session presented at EPI/Lifestyle 2017 Scientific Sessions, Portland, OR.
+12.	**Thanataveerat, A.**, Chang B. P., Parsons F., Sundquist K., Suh E., Sumner J. A. (2017, March). Greater Emergency Department Crowding is Associated with Elevated Posttraumatic Stress Symptoms in the Acute Aftermath of Evaluation for Suspected Acute Coronary Syndrome. Poster session presented at The Annual Meeting of the American Psychosomatic Society, Seville, Spain.
+13.	Pletcher, M. J., Vittinghoff, E., **Thanataveerat, A.**, Bibbins-Domingo, K., & Moran, A. E. (2016). Young Adult Exposure to Cardiovascular Risk Factors and Risk of Events Later in Life: The Framingham Offspring Study. PloS one, 11(5), e0154288.
+14.	Gu, D., He, J., Coxson, P. G., Rasmussen, P. W., Huang, C., **Thanataveerat, A.**, . . . Zhao, D. (2015). The Cost-Effectiveness of Low-Cost Essential Antihypertensive Medicines for Hypertension Control in China: A Modelling Study. PLoS medicine, 12(8).
+15.	Yang, J. J., **Thanataveerat, A.**, Green, P. H., & Lebwohl, B. (2015). Cost Effectiveness of Routine Duodenal Biopsy Analysis for Celiac Disease During Endoscopy for Gastroesophageal Reflux. Clinical Gastroenterology and Hepatology.
+16.	Moran AE, Odden MC, **Thanataveerat, A**, et al. Cost-Effectiveness of Hypertension Therapy According to 2014 Guidelines. New England Journal of Medicine 2015; 372:447-55. 
+17.	**Thanataveerat, A.** (2013, October). Calibration of a Markov Cardiovascular Disease Microsimulation Model Using an Established Cell-Based Simulation Model. Paper presented at The 35th Annual Meeting of the Society for Medical Decision Making, Baltimore, MD.
 
 Skills
 --------------------
