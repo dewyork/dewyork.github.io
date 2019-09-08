@@ -4,10 +4,12 @@ navbar:
   title: "Anusorn Dew Thanataveerat"
   left:
     - text: "Resume"
-      href: resume.html
+      href: downloads/AnusornCV20190828.pdf
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<at2710@cumc.columbia.com>
+    - icon: ai-google-scholar-square ai-lg
+      href: https://scholar.google.com/citations?user=n9F2MUgAAAAJ&hl=en&oi=ao
     - icon: fa-github fa-lg
       href: http://github.com/dewyork/
     - icon: fa-linkedin fa-lg

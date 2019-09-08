@@ -8,4 +8,5 @@ Originally trained as a pharmacist, I stepped into the world of data with focus 
 I received MPH degree in Health Policy & Management from [Columbia University](https://www.mailman.columbia.edu/become-student/departments/health-policy-and-management) in 2011 and went back for my DrPH in [Biostatistics](https://www.mailman.columbia.edu/become-student/departments/biostatistics) in 2013. For my dissertation, I am working on developing the new model-based clustering algorithms for zero-inflated data with the supervision of [Dr.Bin cheng](https://www.mailman.columbia.edu/people/our-faculty/bc2159) and [Dr.Ken Cheung](https://www.mailman.columbia.edu/people/our-faculty/yc632). My expected graduation date is December 2019.
 
 
-My resume is available [here](resume.html).
+<!-- My resume is available [here](resume.html). -->
+My resume is available [here](downloads/AnusornCV20190828.pdf).
