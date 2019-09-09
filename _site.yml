@@ -4,7 +4,7 @@ navbar:
   title: "Anusorn Dew Thanataveerat"
   left:
     - text: "Resume"
-      href: downloads/AnusornCV20190828.pdf
+      href: downloads/AnusornCV20190907.pdf
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<at2710@cumc.columbia.com>
